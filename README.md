@@ -41,6 +41,9 @@ Cuando un sensor de flexión se dobla, la resistencia eléctrica en su interior 
 
 Los sensores de flexión son versátiles y se pueden encontrar en diversas formas y tamaños, lo que les permite adaptarse a una amplia gama de situaciones y aplicaciones.
 
+## Fotodiodo investigación:
+Un fotodiodo es un semiconductor construido con una unión PN, sensible a la incidencia de la luz visible o infrarroja. Para que su funcionamiento sea correcto se polariza inversamente, con lo que se producirá una cierta circulación de corriente cuando sea excitado por la luz. Debido a su construcción, los fotodiodos se comportan como células fotovoltaicas, es decir, iluminados en ausencia de una fuente exterior de energía generan una corriente muy pequeña con el positivo en el ánodo y el negativo en el cátodo.
+
 ## Función principal
 Esta funcion se encarga de encender y apagar los displays.
 
