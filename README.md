@@ -21,7 +21,7 @@ Primera parte: Se encarga de sumar, restar y resetear un contador. Sumando de a 
 
 Segunda parte: Cumple la misma funcion que en la parte uno, ademas que mediante un switch podes cambiar de modo, a contador o muestra los numeros primos.
 
-Tercera parte: Cumple la misma funcion que la parte dos, solo que cambiamos el swtich por un sensor de flexibilidad.
+Tercera parte: Se remplazó la funcion de numeros primos para mostrar el de luz que detecta el fotodiodo en los displays cuando el switch está activado.
 
 
 ## investigacion de motor cc
